@@ -17190,9 +17190,9 @@ const sd = [
     },
     {
       image: bu,
-      title: "Storm Liquidswap",
+      title: "Storm Uniswap",
       description:
-        "Launch your assault on Liquidswap. Hit up liquidswap.com via Google Chrome or through the portal in your Pontem app. Link up your wallet like a digital lockpick. Drop the $EDOG token address into Liquidswap's heart, pick $EDOG, and hammer that confirm button. When MetaMask hollers for a signature, brand it with yours.",
+        "Launch your assault on Uniswap. Hit up Uniswap.org via Google Chrome or through the portal in your Metamask app. Link up your wallet like a digital lockpick. Drop the $EDOG token address into Uniswap's heart, pick $EDOG, and hammer that confirm button. When MetaMask hollers for a signature, brand it with yours.",
     },
     {
       image: Bu,
