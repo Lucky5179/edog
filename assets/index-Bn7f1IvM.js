@@ -11937,17 +11937,17 @@ const $u = (e, t) =>
   qu = {
     telegram: "https://t.me/edog_erc20",
     twitter: "https://x.com/edog_erc20",
-    dextools: "https://www.dextools.io/",
+    dextools: "https://www.dextools.io/app/en/ether/pair-explorer/0x6Cd68bC3afaed4743508f80278e8C2390A41d398",
     dex: "#",
-    dexscreener: "https://dexscreener.com/",
+    dexscreener: "https://dexscreener.com/ethereum/0x6Cd68bC3afaed4743508f80278e8C2390A41d398",
   },
   e6 = { contractAddress: Ju, link: qu },
-  t6 = "0xcomingsoon",
+  t6 = "0x6Cd68bC3afaed4743508f80278e8C2390A41d398",
   n6 = {
     telegram: "https://t.me/edog_erc20",
     twitter: "https://x.com/edog_erc20",
-    dextools: "https://www.dextools.io/",
-    dexscreener: "https://dexscreener.com/",
+    dextools: "https://www.dextools.io/app/en/ether/pair-explorer/0x6Cd68bC3afaed4743508f80278e8C2390A41d398",
+    dexscreener: "https://dexscreener.com/ethereum/0x6Cd68bC3afaed4743508f80278e8C2390A41d398",
   },
   r6 = { contractAddress: t6, link: n6 },
   i6 = "prod",
@@ -12170,7 +12170,7 @@ const f6 = _n(d6),
                 }),
               }),
               g.jsx("a", {
-                href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+                href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x6Cd68bC3afaed4743508f80278e8C2390A41d398",
                 target: "_blank",
                 children: g.jsx("div", {
                   className:
